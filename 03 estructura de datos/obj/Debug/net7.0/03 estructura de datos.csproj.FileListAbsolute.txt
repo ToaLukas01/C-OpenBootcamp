@@ -1,0 +1,15 @@
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\bin\Debug\net7.0\03 estructura de datos.exe
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\bin\Debug\net7.0\03 estructura de datos.deps.json
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\bin\Debug\net7.0\03 estructura de datos.runtimeconfig.json
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\bin\Debug\net7.0\03 estructura de datos.dll
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\bin\Debug\net7.0\03 estructura de datos.pdb
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.AssemblyInfoInputs.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.AssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.dll
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\refint\03 estructura de datos.dll
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.pdb
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\03 estructura de datos.genruntimeconfig.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\03 estructura de datos\obj\Debug\net7.0\ref\03 estructura de datos.dll

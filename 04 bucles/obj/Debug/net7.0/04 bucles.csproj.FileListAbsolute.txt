@@ -1,0 +1,5 @@
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\04 bucles\obj\Debug\net7.0\04 bucles.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\04 bucles\obj\Debug\net7.0\04 bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\04 bucles\obj\Debug\net7.0\04 bucles.AssemblyInfoInputs.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\04 bucles\obj\Debug\net7.0\04 bucles.AssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\04 bucles\obj\Debug\net7.0\04 bucles.csproj.CoreCompileInputs.cache

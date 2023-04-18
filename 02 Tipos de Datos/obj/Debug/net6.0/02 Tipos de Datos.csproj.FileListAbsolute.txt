@@ -1,0 +1,15 @@
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\bin\Debug\net6.0\02 Tipos de Datos.exe
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\bin\Debug\net6.0\02 Tipos de Datos.deps.json
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\bin\Debug\net6.0\02 Tipos de Datos.runtimeconfig.json
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\bin\Debug\net6.0\02 Tipos de Datos.dll
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\bin\Debug\net6.0\02 Tipos de Datos.pdb
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.csproj.AssemblyReference.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.AssemblyInfoInputs.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.AssemblyInfo.cs
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.dll
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\refint\02 Tipos de Datos.dll
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.pdb
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\02 Tipos de Datos.genruntimeconfig.cache
+C:\PROGRAMACION\PROYECTOS\C# learning\02 Tipos de Datos\02 Tipos de Datos\obj\Debug\net6.0\ref\02 Tipos de Datos.dll
