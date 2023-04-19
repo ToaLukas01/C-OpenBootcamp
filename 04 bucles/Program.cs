@@ -60,3 +60,18 @@ array[0] = 0;
 array[1] = 1;
 array[2] = 2;
 
+
+// SWITCH
+switch(day)
+{
+    case "Lunes":
+        return "Hoy es Lunes";
+    case "Martes":
+        Console.Write("Hoy es Martes");
+        break;
+    default:
+        Console.Write("No se ingreso ningun dia");
+        break; // romper o "parar"
+}
+
+
